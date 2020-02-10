@@ -6,7 +6,7 @@ using namespace std;
 
 int main() {
   Solution s;
-  int i=0,n=5;
+  int i=0,n=2;
   vector<int> v = {1,4,3,2};
   vector<int> v1 = s.VectorIndices(v,n);
   cout<<"[";
